@@ -41,7 +41,6 @@ Welcome to torch-opt's documentation!
            self.fc4 = nn.Linear(fc3_units, action_size)
 
        def forward(self, state):
-           """Build a network that maps state -> action values."""
            x = F.relu(self.fc1(state))
            x = F.relu(self.fc2(x))
            x = F.relu(self.fc3(x))

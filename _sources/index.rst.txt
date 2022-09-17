@@ -7,6 +7,15 @@ Welcome to torch-opt's documentation!
 =====================================
 안녕하세요. 깃헙으로도 스핑크스가 지원이 되는군요.
 
+Contents
+--------
+
+.. toctree::
+   :maxdepth: 2
+
+   001_doctest
+
+
 이런저런 예제들
 ==================
 

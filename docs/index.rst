@@ -1,10 +1,10 @@
-.. PyTorch와 최적화, 그리고 수치해석 documentation master file, created by
-   sphinx-quickstart on Fri Sep 16 22:00:05 2022.
+.. torch-opt documentation master file, created by
+   sphinx-quickstart on Sat Sep 17 20:24:21 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PyTorch와 최적화, 그리고 수치해석's documentation!
-=============================================================
+Welcome to torch-opt's documentation!
+=====================================
 안녕하세요. 깃헙으로도 스핑크스가 지원이 되는군요.
 
 이런저런 예제들

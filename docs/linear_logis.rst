@@ -10,6 +10,7 @@ Binary Classification
    :linenos:
 
    import numpy as np
+
    xy = np.array([[.2, .4],[.4, .2],[.65,.3],[.8, .5],[.5, .8],[.25, .8]])
    labels = np.array([[0],[0],[0],[1],[1],[1]], dtype=np.int32)
    print(xy)

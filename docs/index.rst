@@ -11,6 +11,7 @@ Welcome to torch-opt's documentation!
 .. toctree::
    :numbered:
    :maxdepth: 1
+   :caption: 목차:
 
    linear_regression
    linear_logis
@@ -54,12 +55,6 @@ Welcome to torch-opt's documentation!
            x = F.relu(self.fc2(x))
            x = F.relu(self.fc3(x))
            return self.fc4(x)
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
 
 
 Indices and tables

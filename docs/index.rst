@@ -7,14 +7,13 @@ Welcome to torch-opt's documentation!
 =====================================
 안녕하세요. 깃헙으로도 스핑크스가 지원이 되는군요.
 
-Contents
---------
 
 .. toctree::
    :numbered:
-   :maxdepth: 2
+   :maxdepth: 1
 
-   001_doctest
+   linear_regression
+   linear_logis
 
 
 이런저런 예제들
